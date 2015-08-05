@@ -1,0 +1,24 @@
+[submodule "G1_PaintWithVision"]
+	path = G1_PaintWithVision
+	url = https://github.com/ddifelice/G1_PaintWithVision
+[submodule "motion_controlled_fighting_game"]
+	path = motion_controlled_fighting_game
+	url = https://github.com/qoire/motion_controlled_fighting_game
+[submodule "G3_OrchestraConductorDemo"]
+	path = G3_OrchestraConductorDemo
+	url = https://github.com/mkotormus/G3_OrchestraConductorDemo.git
+[submodule "G4_stereoscopic_depth"]
+	path = G4_stereoscopic_depth
+	url = https://github.com/marknsikora/G4_stereoscopic_depth
+[submodule "G5_tetris_AI"]
+	path = G5_tetris_AI
+	url = https://github.com/DerekPPeterson/G5_tetris_AI
+[submodule "G6_FPGA_Billiards"]
+	path = G6_FPGA_Billiards
+	url = https://github.com/davidmctavish/G6_FPGA_Billiards
+[submodule "G7_HoleInTheWall"]
+	path = G7_HoleInTheWall
+	url = https://github.com/Bacalhau/G7_HoleInTheWall
+[submodule "ECE532_Digital_Board"]
+	path = ECE532_Digital_Board
+	url = https://github.com/AsianDavid/ECE532_Digital_Board
